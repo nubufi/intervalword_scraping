@@ -125,6 +125,3 @@ class MyBot:
         self.search()
         self.extract_results()
         self.session.quit()
-
-
-bot = MyBot("Zorieric", "vacati0nfun").run()
